@@ -10,7 +10,7 @@
 ### Programming Languages: Python, C++
 ### Machine Learning: Data preprocessing, Model building, Evaluation, Deployment
 ### Data Structures and Algorithms: Efficient problem-solving skills
-### Web Development: HTML, CSS, JavaScript, Django, ReactJS (optional if relevant)
+### Web Development: HTML, CSS, JavaScript, ReactJS
 ### Version Control: Git
 
 ## Achievements 🏆

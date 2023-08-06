@@ -8,9 +8,9 @@
 
 ## Technical Skills 🛠️
 ### Programming Languages: Python, C++
-### Machine Learning: Data preprocessing, Model building, Evaluation, Deployment
+### Machine Learning: Data preprocessing, Evaluation, Deployment
 ### Data Structures and Algorithms: Efficient problem-solving skills
-### Web Development: HTML, CSS, JavaScript, ReactJS
+### Web Development: HTML, CSS
 ### Version Control: Git
 
 ## Achievements 🏆

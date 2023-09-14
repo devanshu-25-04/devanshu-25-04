@@ -28,5 +28,5 @@
 
 ## Contact 📞
 ### LinkedIn: https://www.linkedin.com/in/devanshu-khemka-1141091b8/
-### GitHub: https://github.com/devanshu-25-04
+### GitHub: https://github.com/devanshu2504
 ### Email: devanshukhemka0402@gmail.com

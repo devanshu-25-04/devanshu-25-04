@@ -15,6 +15,7 @@
 
 ## Achievements 🏆
 ### Certificate of excellence by MNIT Jaipur for securing 3rd position in the case study event "Use of AI/ML in Civil Engineering"
+### Research Paper Publication- IEEE Explorer
 
 ## Courses and Certifications 📚
 ### · AI Analyst- IBM (learnt the application of ML algorithms, NLP, IBM Chatbot and computer vision)
